@@ -1,6 +1,6 @@
 {
   "_category": "video",
-  "_count": 3,
+  "_count": 4,
   "tools": [
     {
       "id": "descript",
@@ -69,6 +69,28 @@
       "submittedAt": "2026-04-08T00:00:00Z",
       "lastUpdated": "2026-04-08T00:00:00Z",
       "verificationStatus": "verified"
+    },
+    {
+      "id": "cyanvid",
+      "name": "Cyanvid",
+      "description": "AI video generator SaaS that turns text and images into videos with modern models. Built for creators and marketers who want ideas in motion without a heavy production stack.",
+      "category": "video",
+      "pricing": "Freemium",
+      "link": "https://cyanvid.com",
+      "tags": [
+        "video-generation",
+        "text-to-video",
+        "image-to-video",
+        "saas",
+        "creators"
+      ],
+      "featured": false,
+      "popular": false,
+      "new": true,
+      "submittedBy": "kbwzy",
+      "submittedAt": "2026-10-28T03:17:14Z",
+      "lastUpdated": "2026-10-28T03:17:14Z",
+      "verificationStatus": "unverified"
     }
   ]
 }

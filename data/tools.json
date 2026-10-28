@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-08T19:18:59.358Z",
+  "lastUpdated": "2026-10-28T03:17:17.660Z",
   "version": "1.0.0",
-  "totalTools": 43,
+  "totalTools": 44,
   "categories": [
     {
       "id": "audio",
@@ -61,7 +61,7 @@
     {
       "id": "video",
       "name": "Video",
-      "count": 3
+      "count": 4
     }
   ],
   "tools": [
@@ -317,6 +317,28 @@
       "submittedAt": "2024-01-15T10:00:00Z",
       "lastUpdated": "2024-01-15T10:00:00Z",
       "verificationStatus": "verified"
+    },
+    {
+      "id": "cyanvid",
+      "name": "Cyanvid",
+      "description": "AI video generator SaaS that turns text and images into videos with modern models. Built for creators and marketers who want ideas in motion without a heavy production stack.",
+      "category": "video",
+      "pricing": "Freemium",
+      "link": "https://cyanvid.com",
+      "tags": [
+        "video-generation",
+        "text-to-video",
+        "image-to-video",
+        "saas",
+        "creators"
+      ],
+      "featured": false,
+      "popular": false,
+      "new": true,
+      "submittedBy": "kbwzy",
+      "submittedAt": "2026-10-28T03:17:14Z",
+      "lastUpdated": "2026-10-28T03:17:14Z",
+      "verificationStatus": "unverified"
     },
     {
       "id": "dall-e",
